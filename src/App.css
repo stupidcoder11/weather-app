@@ -1,0 +1,22 @@
+/* Containers */
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #ccc;
+}
+
+.heroes-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10em;
+    flex-wrap: wrap;
+}
+
+/* Titles */
+
+.title {
+    text-align: center;
+}
+
